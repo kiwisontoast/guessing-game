@@ -17,6 +17,7 @@ public class guess
             System.out.println("Too high");
         }
         }
+        System.out.println("That is right");
 		scanner.close();
 	}
 }
